@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Sharma
-- 👀 I’m interested in web and android development
+- 👀 I’m interested in android development and machine learning
 - 🌱 I’m currently learning Data Structures and Algorithms
 
 <!---
