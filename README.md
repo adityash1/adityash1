@@ -6,7 +6,6 @@
 I love to experiment with things since my childhood (breaking and fixing smartphones and my old potato pc 😆). I have experimented with AOSP, Unity, Flutter, etc but found my niche domain in full stack development as it'll help me explore lots of tools and tech and setup solid ground for cloud native landscape 😍.
 
 - 🔭 I’m currently working on building full stack web apps
-- 🌱 I’m currently learning algorithms & data structures 
 - ❄️ Currently studying Computer Science Engineering from ITM University, Gwalior
 - 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: he/him
