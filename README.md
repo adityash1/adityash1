@@ -13,7 +13,7 @@ I love to experiment with things since my childhood (breaking and fixing smartph
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
 <div align= "center">                            
-  <img src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars&count_private=true&theme=aura&include_all_commits=true&custom_title=My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars&theme=aura&include_all_commits=true&custom_title=My Stats" />
 </div>
           
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
