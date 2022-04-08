@@ -17,8 +17,8 @@ I love to experiment with things since my childhood (breaking and fixing smartph
           
 <p align="center">
 <a href="https://github.com/adityash1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars&theme=aura&include_all_commits=true&custom_title=My Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=3&theme=aura" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars&theme=aura&include_all_commits=true&custom_title=My Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=3&theme=aura" />
 </a>
 </p>
 
