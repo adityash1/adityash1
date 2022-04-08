@@ -6,16 +6,22 @@
 I love to experiment with things since my childhood (breaking and fixing smartphones and my old potato pc 😆). I have experimented with AOSP, Unity, Flutter, etc but found my niche domain in full stack development as it'll help me explore lots of tools and tech and setup solid ground for cloud native landscape 😍.
 
 - 🔭 I’m currently working on building full stack web apps
+- 👀 I’m interested in Web Development, Programming, DevOps & Flutter
 - ❄️ Currently studying Computer Science Engineering from ITM University, Gwalior
 - 👯 I’m looking to collaborate on open source projects
+- 💬 I would love to talk about internship opportunities
 - 😄 Pronouns: he/him
                             
+                            
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
- 
-<div align= "center">                            
-  <img src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars&theme=aura&include_all_commits=true&custom_title=My Stats" />
-</div>
           
+<p align="center">
+<a href="https://github.com/adityash1">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars&theme=aura&include_all_commits=true&custom_title=My Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=3&theme=aura" />
+</a>
+</p>
+
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <a href="https://github.com/adityash1/FullStackOpen-Exercises">
