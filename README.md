@@ -36,7 +36,7 @@ I love to experiment with things since my childhood (breaking and fixing smartph
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <p align = 'center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adityash1&layout=compact&theme=aura"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adityash1&layout=compact&theme=aura&custom_title=Weekly Stats"/>
 </p>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
