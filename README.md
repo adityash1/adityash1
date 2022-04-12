@@ -24,12 +24,22 @@ I love to experiment with things since my childhood (breaking and fixing smartph
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
+<p align = 'center'>
 <a href="https://github.com/adityash1/FullStackOpen-Exercises">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityash1&repo=FullStackOpen-Exercises&theme=aura&show_owner=true" />
 </a>
 <a href="https://github.com/adityash1/meme-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityash1&repo=meme-generator&theme=aura&show_owner=true" />
-</a>                    
+</a>
+</p>
+
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+<p align = 'center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adityash1&layout=compact&theme=aura"/>
+</p>
+
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Connect with me  
   
@@ -42,4 +52,4 @@ I love to experiment with things since my childhood (breaking and fixing smartph
 <a href = "mailto:aditya167411@gmail.com" target = "_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</div>  
+</div> 
