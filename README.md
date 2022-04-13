@@ -36,6 +36,14 @@ I love to experiment with things since my childhood (breaking and fixing smartph
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript            5 hrs 19 mins   ██████████████████░░░░░░░   72.46 %
+JSON                  1 hr 39 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+Bash                  18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Other                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
