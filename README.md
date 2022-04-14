@@ -14,7 +14,8 @@ I love to experiment with things since my childhood (breaking and fixing smartph
                             
                             
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-          
+
+📊 **Github Stats**
 <p align="center">
 <a href="https://github.com/adityash1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars&theme=aura&include_all_commits=true&custom_title=My Stats"/>
@@ -22,7 +23,7 @@ I love to experiment with things since my childhood (breaking and fixing smartph
 </a>
 </p>
 
-<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<!-- <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <p align = 'center'>
 <a href="https://github.com/adityash1/FullStackOpen-Exercises">
@@ -31,10 +32,11 @@ I love to experiment with things since my childhood (breaking and fixing smartph
 <a href="https://github.com/adityash1/meme-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityash1&repo=meme-generator&theme=aura&show_owner=true" />
 </a>
-</p>
+</p> -->
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
+📊 **Weekly Stats**
 <!--START_SECTION:waka-->
 
 ```text
