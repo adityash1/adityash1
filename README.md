@@ -40,12 +40,11 @@ I love to experiment with things since my childhood (breaking and fixing smartph
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript            9 hrs 17 mins   ██████████████████▓░░░░░░   74.61 %
-JSON                  1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-CSS                   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Bash                  19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-HTML                  2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other                 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript            12 hrs 26 mins  ██████████████████▓░░░░░░   74.54 %
+JSON                  1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+CSS                   1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Bash                  19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Other                 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
