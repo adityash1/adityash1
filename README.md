@@ -3,7 +3,7 @@
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
   
-I love to experiment with things since my childhood (breaking and fixing smartphones and my old potato pc 😆). I have experimented with AOSP, Unity, Flutter, etc but found my niche domain in full stack development as it'll help me explore lots of tools and tech and setup solid ground for cloud native landscape 😍.
+I love to experiment with things since childhood (breaking and fixing smartphones and my old potato pc 😆). I have experimented with AOSP, Unity, Flutter, etc but found my niche domain in full stack development as it'll help me explore lots of tools and tech and setup solid ground for cloud native landscape 😍.
 
 - 🔭 I’m currently working on building full stack web apps
 - 👀 I’m interested in Web Development, Programming, DevOps & Flutter
