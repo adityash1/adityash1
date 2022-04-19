@@ -40,12 +40,12 @@ I love to experiment with things since childhood (breaking and fixing smartphone
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   27 hrs 9 mins   ████████████████████▓░░░░   82.89 %
-JSON         2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-CSS          1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Markdown     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   26 hrs 51 mins  █████████████████████▓░░░   86.30 %
+CSS          1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+JSON         1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Markdown     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
