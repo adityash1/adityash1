@@ -18,7 +18,7 @@ I love to experiment with things since childhood (breaking and fixing smartphone
 📊 **Github Stats**
 <p align="center">
 <a href="https://github.com/adityash1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars,issues&theme=aura&count_private=true&custom_title=Github"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars,issues&theme=aura&count_private=true&custom_title=My Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=6&theme=aura&hide=html" />
 </a>
 </p>
@@ -28,9 +28,6 @@ I love to experiment with things since childhood (breaking and fixing smartphone
 <p align = 'center'>
 <a href="https://github.com/adityash1/FullStackOpen-Exercises">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityash1&repo=FullStackOpen-Exercises&theme=aura&show_owner=true" />
-</a>
-<a href="https://github.com/adityash1/meme-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityash1&repo=meme-generator&theme=aura&show_owner=true" />
 </a>
 </p> -->
 
