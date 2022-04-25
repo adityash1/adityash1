@@ -18,8 +18,8 @@ I love to experiment with things since childhood (breaking and fixing smartphone
 📊 **Github Stats**
 <p align="center">
 <a href="https://github.com/adityash1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars&theme=aura&include_all_commits=true&custom_title=My Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=4&theme=aura&hide=html" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars,issues&theme=aura&count_private=true&custom_title=Github"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=6&theme=aura&hide=html" />
 </a>
 </p>
 
@@ -38,16 +38,6 @@ I love to experiment with things since childhood (breaking and fixing smartphone
 
 📊 **Weekly Stats**
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   18 hrs 20 mins  ██████████████████████▓░░   90.12 %
-JSON         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-```
-
 <!--END_SECTION:waka-->
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
