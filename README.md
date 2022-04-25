@@ -35,6 +35,16 @@ I love to experiment with things since childhood (breaking and fixing smartphone
 
 📊 **Weekly Stats**
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   18 hrs 20 mins  ██████████████████████▓░░   90.12 %
+JSON         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
