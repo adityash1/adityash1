@@ -5,7 +5,7 @@
   
 I love to indulge with technical things since childhood (breaking and fixing smartphones and my old potato pc 😆). I have experimented with AOSP, Linux Kernel,  Unity,  Flutter,  etc. Likewise, I found my niche domain in Full Stack Engineering, as I like to build  end to end products, always learning along the way and loves figuring out solutions to the problems.
                             
-- 🔭 I’m currently doing on Full Stack Open Challenge
+- 🔭 I’m currently doing Full Stack Open Challenge
 - 👀 I’m interested in Web, Programming, DevOps & Flutter
 - ❄️ Currently studying Computer Science Engineering
 - 👯 I’m looking to collaborate on open source projects
