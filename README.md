@@ -37,12 +37,11 @@ I love to indulge with technical things since childhood (breaking and fixing sma
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   33 hrs 1 min    ████████████████████████░   95.74 %
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Bash         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-HTML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JavaScript         27 hrs 55 mins  █████████████████████▒░░░   85.58 %
+TypeScript         2 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+JSON               1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Git Config         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
