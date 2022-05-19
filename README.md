@@ -33,19 +33,6 @@ I love to indulge with technical things since childhood (breaking and fixing sma
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-📊 **Weekly Stats**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   5 hrs 18 mins   █████████████████████░░░░   84.26 %
-JSON         57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-```
-
-<!--END_SECTION:waka-->
-
-<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
 ## Connect with me  
   
 <a href="https://twitter.com/adityash_twt" target="_blank">
