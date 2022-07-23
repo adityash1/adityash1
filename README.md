@@ -31,11 +31,6 @@
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
 ## Connect with me  
   
 <a href="https://twitter.com/adityash_twt" target="_blank">
