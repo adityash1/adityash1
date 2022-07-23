@@ -1,9 +1,7 @@
-<h2 align="center"> < Hello, I'm Aditya Sharma /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> 
+<h2 align="center"> < Hello, I'm Aditya /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> 
 <h3 align="center"> Tech 🧑‍💻 / Problem Solving ⚙️</h3>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-  
-I love to indulge with technical things since childhood (breaking and fixing smartphones and my old potato pc 😆). I have experimented with AOSP, Linux Kernel,  Unity,  Flutter,  etc. Likewise, I found my niche domain in Full Stack Engineering, as I like to build  end to end products, always learning along the way and loves figuring out solutions to the problems.
                             
 - 🔭 I’m currently doing Full Stack Open Challenge
 - 👀 I’m interested in Web, Programming, DevOps & Flutter
