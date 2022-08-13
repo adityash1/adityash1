@@ -2,16 +2,6 @@
 <h3 align="center"> Tech 🧑‍💻 / Problem Solving ⚙️</h3>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-                            
-- 🔭 I’m currently doing Full Stack Open Challenge
-- 👀 I’m interested in Web, Programming, DevOps & Flutter
-- ❄️ Currently studying Computer Science Engineering
-- 👯 I’m looking to collaborate on open source projects
-- 💬 I would love to talk about internship opportunities
-- 😄 Pronouns: he/him
-                            
-                            
-<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 📊 **Github Stats**
 <p align="center">
