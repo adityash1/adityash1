@@ -1,23 +1,16 @@
-<h2 align="center"> < Hello, I'm Aditya /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> 
-<h3 align="center"> Tech 🧑‍💻 / Problem Solving ⚙️</h3>
+<h3> < Hello, I'm Aditya /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3> 
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 📊 **Github Stats**
-<p align="center">
+<p>
 <a href="https://github.com/adityash1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&hide=stars,issues&theme=aura&count_private=true&custom_title=My Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&include_all_commits=true&theme=aura&count_private=true">
+</a>
+<a href="https://github.com/adityash1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=6&theme=aura&hide=html" />
 </a>
 </p>
-
-<!-- <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-<p align = 'center'>
-<a href="https://github.com/adityash1/FullStackOpen-Exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityash1&repo=FullStackOpen-Exercises&theme=aura&show_owner=true" />
-</a>
-</p> -->
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
