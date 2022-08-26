@@ -2,17 +2,21 @@
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-📊 **Github Stats**
 <p>
-<a href="https://github.com/adityash1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&include_all_commits=true&theme=aura&count_private=true">
-</a>
-<a href="https://github.com/adityash1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=6&theme=aura&hide=html" />
-</a>
+  <a href="https://github.com/adityash1">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&include_all_commits=true&theme=aura&count_private=true">
+  </a>
+  <a href="https://github.com/adityash1">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=6&theme=aura&hide=html" />
+  </a>
+  <a href="https://app.daily.dev/aditya_sh1">
+    <img height="300em" src="https://github.com/adityash1/adityash1/blob/main/devcard.svg" width="300" alt="Aditya's Dev Card"/>
+  </a>
 </p>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+
 
 ## Connect with me  
   
