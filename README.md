@@ -23,5 +23,6 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Webpack—Under the hood](https://adityash1.hashnode.dev//webpack-under-the-hood)
 <!-- HASHNODE_BLOG:END -->
 
