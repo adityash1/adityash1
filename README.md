@@ -21,7 +21,7 @@
 </a>
 </div> 
 
-## Blogs
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
