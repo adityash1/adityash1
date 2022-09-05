@@ -1,15 +1,12 @@
 <h3> < Hello, I'm Aditya /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3> 
 
-<p>
-  <a href="https://github.com/adityash1">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adityash1&show_icons=true&include_all_commits=true&theme=aura&count_private=true">
-  </a>
-  <a href="https://github.com/adityash1">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash1&layout=compact&langs_count=6&theme=aura&hide=html" />
-  </a>
-</p>
+![](https://raw.githubusercontent.com/adityash1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adityash1/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/adityash1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adityash1/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <a href="https://app.daily.dev/aditya_sh1">
-  <img height="400em" src="https://github.com/adityash1/adityash1/blob/main/devcard.svg" width="400" alt="Aditya's Dev Card"/>
+  <img height="300em" src="https://github.com/adityash1/adityash1/blob/main/devcard.svg" width="300" alt="Aditya's Dev Card"/>
 </a>
 
 ## Connect with me  
