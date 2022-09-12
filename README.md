@@ -18,7 +18,7 @@ Hi, I'm Aditya Sharma, a passionate self-taught aspiring full stack engineer cur
   <img height="250em" src="https://github.com/adityash1/adityash1/blob/main/devcard.svg" width="250" alt="Aditya's Dev Card"/>
 </a>
 
-### Languages & Tools
+### Languages & Tools (a few)
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,react,redux,nodejs,express,jest,graphql,ts,nextjs,mongodb,prisma,html,css,webpack,materialui,vscode,powershell)](https://skillicons.dev)
 
 ### Learning
