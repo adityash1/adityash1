@@ -22,7 +22,7 @@ Hi, I'm Aditya Sharma, a passionate self-taught aspiring full stack engineer cur
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,react,redux,nodejs,express,jest,graphql,ts,nextjs,mongodb,prisma,html,css,webpack,materialui,vscode,powershell)](https://skillicons.dev)
 
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=golang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,aws)](https://skillicons.dev)
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
