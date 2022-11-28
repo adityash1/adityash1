@@ -10,10 +10,11 @@
 <br />
 Hi, I'm Aditya Sharma, a passionate self-taught aspiring full stack engineer currently pursuing computer science & engineering. i take great care in the experience, architecture, and code quality of the stuff i work on.
 
-![](https://raw.githubusercontent.com/adityash1/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/adityash1/stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/adityash1/stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/adityash1/stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/adityash1/GitStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adityash1/GitStats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/adityash1/GitStats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/adityash1/GitStats/master/generated/languages.svg#gh-light-mode-only)
+
 <a href="https://app.daily.dev/aditya_sh1">
   <img height="250em" src="https://github.com/adityash1/adityash1/blob/main/devcard.svg" width="250" alt="Aditya's Dev Card"/>
 </a>
