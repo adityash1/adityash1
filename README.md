@@ -27,6 +27,7 @@ Hi, I'm Aditya Sharma, a passionate self-taught aspiring full stack engineer cur
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Using HTTPS on Local Environment with Nginx](https://adityash1.hashnode.dev//using-https-on-local-environment-with-nginx)
 - [Webpack—Under the hood](https://adityash1.hashnode.dev//webpack-under-the-hood)
 <!-- HASHNODE_BLOG:END -->
 
