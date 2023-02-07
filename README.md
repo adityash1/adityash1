@@ -20,7 +20,7 @@ Hi, I'm Aditya Sharma, a passionate self-taught aspiring full stack engineer cur
 </a>
 
 ### Languages & Tools (a few)
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,react,redux,nodejs,express,jest,graphql,ts,nextjs,mongodb,prisma,html,css,webpack,materialui,vscode,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,react,redux,nodejs,nestjs,express,jest,graphql,nextjs,mongodb,postgres,prisma,webpack,vite,babel,materialui,styledcomponents,vscode,powershell,bash,apollo,docker,git,githubactions,linux,nginx)](https://skillicons.dev)
 
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=golang,aws)](https://skillicons.dev)
