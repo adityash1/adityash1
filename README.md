@@ -19,11 +19,11 @@ Hi, I'm Aditya Sharma, a passionate self-taught aspiring full stack engineer cur
   <img height="250em" src="https://github.com/adityash1/adityash1/blob/main/devcard.svg" width="250" alt="Aditya's Dev Card"/>
 </a>
 
-### Languages & Tools (a few)
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,react,redux,nodejs,nestjs,express,jest,graphql,nextjs,mongodb,postgres,prisma,webpack,vite,babel,materialui,styledcomponents,vscode,powershell,bash,apollo,docker,git,githubactions,linux,nginx)](https://skillicons.dev)
+### Languages & Tools (Mostly Used)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,react,redux,nodejs,express,jest,graphql,nextjs,mongodb,postgres,prisma,styledcomponents,docker,linux)](https://skillicons.dev)
 
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=golang,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,rust)](https://skillicons.dev)
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
