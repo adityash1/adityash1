@@ -8,7 +8,7 @@
 </a>
 <br />
 <br />
-Hi, I'm Aditya Sharma, a passionate self-taught aspiring full stack engineer currently pursuing computer science & engineering. i take great care in the experience, architecture, and code quality of the stuff i work on.
+Hi, I'm Aditya Sharma, aspiring full stack engineer pursuing computer science & engineering. Generalist. Working with front-end, back-end, data and soon infra.
 
 ![](https://raw.githubusercontent.com/adityash1/GitStats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/adityash1/GitStats/master/generated/overview.svg#gh-light-mode-only)
