@@ -8,7 +8,7 @@
 </a>
 <br />
 <br />
-Hi, I'm Aditya Sharma, aspiring full stack engineer pursuing computer science & engineering. Generalist. Working with front-end, back-end, data and soon infra.
+Hi, I'm Aditya Sharma, aspiring swe pursuing computer science & engineering. Generalist. Working with front-end, back-end, data and soon infra.
 
 ![](https://raw.githubusercontent.com/adityash1/GitStats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/adityash1/GitStats/master/generated/overview.svg#gh-light-mode-only)
