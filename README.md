@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Aspiring SWE. I'm a versatilist who likes adapting to different hats. Working with front-end, back-end. Going deeper into data and infra.
+Aspiring SWE. I'm a versatilist who likes adapting to different hats. Working with front-end to back-end. Going deeper into data and infrastructure.
 
 ![Stats Overview](https://raw.githubusercontent.com/adityash1/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/adityash1/github-stats-transparent/output/generated/languages.svg)
@@ -40,7 +40,6 @@ Aspiring SWE. I'm a versatilist who likes adapting to different hats. Working wi
 </p>
 
 #### 📖 Learning
-<!-- [![My Skills](https://skillicons.dev/icons?i=aws,golang)](https://skillicons.dev) -->
 <p align="left">
   <a><img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go"/></a>
   <a><img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws"/></a>
