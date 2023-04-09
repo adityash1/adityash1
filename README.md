@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Aspiring SWE. I'm a versatilist who likes adapting to different hats. Working with front-end to back-end. Going deeper into data and infrastructure.
+Aspiring SWE. Versatilist who likes adapting to different hats. Working with frontend to backend. learning about golang backends & cloud infra...
 
 ![Stats Overview](https://raw.githubusercontent.com/adityash1/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/adityash1/github-stats-transparent/output/generated/languages.svg)
