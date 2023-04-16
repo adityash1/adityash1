@@ -34,6 +34,7 @@ Aspiring SWE. Versatilist who likes adapting to different hats. Working with fro
   <a><img src="https://img.shields.io/badge/-GraphQl-05122A?style=flat-square&logo=graphql"/></a>
   <a><img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb"/></a>
   <a><img src="https://img.shields.io/badge/-Prisma-05122A?style=flat-square&logo=prisma"/></a>
+  <a><img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat-square&logo=tailwindcss"/></a>
   <a><img src="https://img.shields.io/badge/-StyledComponents-05122A?style=flat-square&logo=styledcomponents"/></a>
   <a><img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/></a>
   <a><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/></a>
