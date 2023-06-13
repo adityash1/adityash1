@@ -44,8 +44,6 @@ Aspiring SWE. Versatilist who likes adapting to different hats. Working with fro
 <p align="left">
   <a><img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go"/></a>
   <a><img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws"/></a>
-  <a><img src="https://img.shields.io/badge/-->-05122A.svg?logoWidth=20"/></a>
-  <a><img src="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust"/></a>
 </p>
 
 <!-- #### My Latest Blog Posts 👇
