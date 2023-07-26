@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Aspiring SWE. Versatilist who likes adapting to different hats. Working with frontend to backend. exploring web performance & infra...
+Aspiring SWE. Generalist who likes adapting to different hats. Working with frontend to backend. exploring web performance & infra...
 
 ![Stats Overview](https://raw.githubusercontent.com/adityash1/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/adityash1/github-stats-transparent/output/generated/languages.svg)
