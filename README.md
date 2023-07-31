@@ -7,8 +7,8 @@
 
 Aspiring SWE. Generalist who likes adapting to different hats. Working with frontend to backend. exploring web performance & infra...
 
-![Stats Overview](https://raw.githubusercontent.com/adityash1/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/adityash1/github-stats-transparent/output/generated/languages.svg)
+<!--![](https://raw.githubusercontent.com/adityash1/redesigned-octo-lamp/master/generated/overview.svg#gh-dark-mode-only) -->
+![](https://raw.githubusercontent.com/adityash1/redesigned-octo-lamp/master/generated/languages.svg#gh-dark-mode-only)
 
 <!-- <a href="https://app.daily.dev/aditya_sh1">
   <img height="225em" src="https://github.com/adityash1/adityash1/blob/main/devcard.svg" width="225" alt="Aditya's Dev Card"/>
@@ -16,7 +16,8 @@ Aspiring SWE. Generalist who likes adapting to different hats. Working with fron
  -->
 #### 🧑‍💻 Currently Working On
 * Pursuing Computer Science & Engineering
-* Software Engineering Intern [@economizecloud](https://github.com/economizecloud?type=source) 
+* Software Engineering Intern [@economizecloud](https://github.com/economizecloud?type=source)
+<a><img src="https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt.js"/></a>
 <a><img src="https://img.shields.io/badge/-Vuejs-05122A?style=flat&logo=vue.js"/></a>
 <a><img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go"/></a>
 <a><img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss"/></a>
