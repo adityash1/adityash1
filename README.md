@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Aspiring SWE. Generalist who likes adapting to different hats. Working with frontend to backend. exploring web performance & infra...
+Aspiring SWE. Generalist who likes adapting to different hats. Working with frontend to backend. learning golang and exploring infra...
 
 <!--![](https://raw.githubusercontent.com/adityash1/redesigned-octo-lamp/master/generated/overview.svg#gh-dark-mode-only) -->
 ![](https://raw.githubusercontent.com/adityash1/redesigned-octo-lamp/master/generated/languages.svg#gh-dark-mode-only)
