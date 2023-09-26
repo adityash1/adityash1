@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Aspiring SWE. Generalist who likes adapting to different hats. Working with frontend to backend. learning golang and exploring infra...
+Aspiring SWE. Generalist who likes adapting to different hats. learning golang...
 
 <!--![](https://raw.githubusercontent.com/adityash1/redesigned-octo-lamp/master/generated/overview.svg#gh-dark-mode-only) -->
 ![](https://raw.githubusercontent.com/adityash1/redesigned-octo-lamp/master/generated/languages.svg#gh-dark-mode-only)
@@ -30,13 +30,11 @@ Aspiring SWE. Generalist who likes adapting to different hats. Working with fron
   <a><img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/></a>
   <a><img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/></a>
   <a><img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js"/></a>
-  <a><img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux"/></a>
   <a><img src="https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js"/></a>
-  <a><img src="https://img.shields.io/badge/-GraphQl-05122A?style=flat-square&logo=graphql"/></a>
   <a><img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb"/></a>
+  <a><img src="https://img.shields.io/badge/-Postgres-05122A?style=flat-square&logo=postgresql"/></a>
   <a><img src="https://img.shields.io/badge/-Prisma-05122A?style=flat-square&logo=prisma"/></a>
   <a><img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat-square&logo=tailwindcss"/></a>
-  <a><img src="https://img.shields.io/badge/-StyledComponents-05122A?style=flat-square&logo=styledcomponents"/></a>
   <a><img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/></a>
   <a><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/></a>
 </p>
