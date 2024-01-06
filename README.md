@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Aspiring SWE. Generalist who likes adapting to different hats. learning golang...
+Aspiring SWE. Generalist who likes adapting to different hats.
 
 <!--![](https://raw.githubusercontent.com/adityash1/redesigned-octo-lamp/master/generated/overview.svg#gh-dark-mode-only) -->
 ![](https://raw.githubusercontent.com/adityash1/redesigned-octo-lamp/master/generated/languages.svg#gh-dark-mode-only)
@@ -14,14 +14,15 @@ Aspiring SWE. Generalist who likes adapting to different hats. learning golang..
   <img height="225em" src="https://github.com/adityash1/adityash1/blob/main/devcard.svg" width="225" alt="Aditya's Dev Card"/>
 </a>
  -->
-#### 🧑‍💻 Currently Working On
+#### 🧑‍💻 Currently:
 * Pursuing Computer Science & Engineering
-* Software Engineering Intern [@economizecloud](https://github.com/economizecloud?type=source)
-<a><img src="https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt.js"/></a>
+* SWE Intern [@economizecloud](https://github.com/economizecloud?type=source)
 <a><img src="https://img.shields.io/badge/-Vuejs-05122A?style=flat&logo=vue.js"/></a>
+<a><img src="https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt.js"/></a>
 <a><img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go"/></a>
-<a><img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss"/></a>
-* Contributing to Open Source
+<a><img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql"/></a>
+<a><img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis"/></a>
+* Building full-stack next/react web-apps and golang projects
 
 #### 🛠 Tech Stack (mostly uses)
 <p align="left">
