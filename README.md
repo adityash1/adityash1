@@ -22,7 +22,7 @@ Aspiring SWE. Generalist who likes adapting to different hats.
 <a><img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go"/></a>
 <a><img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql"/></a>
 <a><img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis"/></a>
-* Building full-stack next/react web-apps and golang projects
+* Building full-stack apps with next/react and golang.
 
 #### 🛠 Tech Stack (mostly uses)
 <p align="left">
