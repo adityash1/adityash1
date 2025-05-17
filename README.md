@@ -12,8 +12,8 @@
   <a><img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/></a>
   <a><img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/></a>
   <a><img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/></a>
-  <a><img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js"/></a>
-  <a><img src="https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt"/></a>
+<!--   <a><img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js"/></a> -->
+<!--   <a><img src="https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt"/></a> -->
 <!--   <a><img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis"/></a> -->
 <!--   <a><img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express"/></a> -->
 </p>
